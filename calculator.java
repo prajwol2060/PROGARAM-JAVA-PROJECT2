@@ -6,7 +6,7 @@ public class calculator {
         System.out.println("enter two numbers");
         int a = n1.nextInt();
         int b = n1.nextInt();
-        System.out.println("...CALCULATOR...rencyc");
+        System.out.println("...CALCULATOR...");
         System.out.println("1.Addition");
         System.out.println("2.Subtraction");
         System.out.println("3.Multiplication");
